@@ -15,6 +15,8 @@ void main() {
   Digest sha1Result = hmacSha1.convert(bytes);
 
   print("sha Result:$sha1Result");
+    print("sha Result:$sha1Result");
+
 }
 
 // class Testing extends StatefulWidget {
